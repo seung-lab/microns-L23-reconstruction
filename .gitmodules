@@ -1,0 +1,12 @@
+[submodule "image_assembly"]
+	path = image_assembly
+	url = https://github.com/seung-lab/Alembic.git
+[submodule "initial_cell_segmentation"]
+	path = initial_cell_segmentation
+	url = https://github.com/seung-lab/abiss.git
+[submodule "convnet_inference"]
+	path = convnet_inference
+	url = https://github.com/seung-lab/chunkflow.git
+[submodule "synapse_and_organelle_segmentation"]
+	path = synapse_and_organelle_processing
+	url = https://github.com/seung-lab/Synaptor.git
